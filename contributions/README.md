@@ -18,6 +18,16 @@
 
 ## Week 3
 
+1. Demo: [Deployment of Azure resource to prod environment](https://github.com/KTH/devops-course/tree/2023/contributions/demo/week3/ikhudur-davidced)
+2. Presentation: [An introductiion to ML driven CICD using Harness](https://github.com/KTH/devops-course/tree/2023/contributions/presentation/week3/jennilar-asbai)
+3. Presentation: [Ensuring Security in CI/CD Pipeline with SonarQube](https://github.com/KTH/devops-course/tree/2023/contributions/presentation/week3/dljungg-taox)
+4. Demo: [Hot code reloading in the Erlang virtual machine](https://github.com/KTH/devops-course/tree/2023/contributions/demo/week3/arasp-adriankv)
+5. Demo: [Canary deployment with Kubernetes and Microsoft Azure](https://github.com/KTH/devops-course/tree/2023/contributions/demo/week3/jonassav-ponorman)
+6. Presentation: [Rolling Deployment with Kubernetes](https://github.com/KTH/devops-course/tree/2023/contributions/presentation/week3/adammel-gardaa)
+7. Presentation: [Kubernetes this, Kubernetes that, but is it always the optimal choice?](https://github.com/KTH/devops-course/tree/2023/contributions/presentation/week3/viktorme-beatajoh)
+8. Presentation: [Orbs make CircleCI the superior CI/CD option](https://github.com/KTH/devops-course/tree/2023/contributions/presentation/week3/oliverle-praneetk)
+9. Demo: [How to deploy on AWS EC2 using ECS and GitHub Actions](https://github.com/KTH/devops-course/tree/2023/contributions/demo/week3/iosif-zeiher)
+
 ## Week 4
 
 ## Week 5
